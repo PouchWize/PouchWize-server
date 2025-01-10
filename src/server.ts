@@ -1,4 +1,4 @@
-import app from './config/app'
+import app from "./configs/app";
 
 const port = process.env.PORT || 3000;
 
